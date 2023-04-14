@@ -26,4 +26,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
   
-  ![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/joaonevescampos/joaonevescampos/blob/output/github-contribution-grid-snake.svg)
