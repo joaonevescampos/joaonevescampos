@@ -1,6 +1,6 @@
 ### Olá! Prazer, João Campos! 👋
 
-Seja Bem vindo(a) ao meu GitHub! 😄
+Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
 
 - 🔭 Atualmente, aprendendo a programar em Python.
 - 👯 Buscando fazer network...
