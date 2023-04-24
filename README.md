@@ -9,7 +9,7 @@ Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
 - 😄 Pronome: Ele/ dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&theme=highcontrast)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos_progress=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&hide_progress=true&theme=highcontrast)](https://github.com/joaonevescampos/github-readme-stats)
 <div style="display: inline_block"><br>
 <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
