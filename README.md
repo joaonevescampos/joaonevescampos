@@ -2,9 +2,10 @@
 
 Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
 
-- 🔭 Atualmente, aprendendo a programar em Python.
+- 🔭 Focado em me tornar dev Front-End. 
+- 💻 Aprendendo as linguagens HTML, CSS e JavaScript.
 - 👯 Buscando fazer network...
-- ✨ Buscando novas oportunidades...
+- ✨ Procurando novas oportunidades...
 - 📫 Contato: joaon.c.jv@gmail.com
 - 😄 Pronome: Ele/ dele
 
