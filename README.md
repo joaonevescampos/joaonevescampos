@@ -1,7 +1,7 @@
 ### Olá! Prazer, João Campos! 👋
 
 <div style="display: inline_block">
-  <img align="right" alt="Pixel Art" height="150" width="150" style="border-radius:50px;"  src="https://github.com/joaonevescampos/joaonevescampos/assets/126534395/3e7cdbf4-4382-4c2d-99ec-12dafb4392e9">
+  <img align="right" alt="Pixel Art" height="150" width="150" style="border-radius:50px;"  src="https://github.com/joaonevescampos/joaonevescampos/assets/126534395/9521918b-aac8-446a-842c-734bcfa2fd14">
  </div>
  
 Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
@@ -11,6 +11,7 @@ Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
 - ✨ Procurando novas oportunidades...
 - 📫 Contato: joaon.c.jv@gmail.com
 - 😄 Pronome: Ele/ dele
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&show_icons=true&theme=highcontrast)](https://github.com/joaonevescampos/github-readme-stats)
