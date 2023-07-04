@@ -7,10 +7,10 @@
 Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
 - 🔭 Focado em me tornar dev Front-End. 
 - 💻 Aprendendo as linguagens HTML, CSS e JavaScript.
-- 👯 Buscando fazer network...
-- ✨ Procurando novas oportunidades...
+- 👯 Buscando novas oportunidades...
+- ✨ Meu portfólio: https://joaonevescampos.github.io/meu-portifolio/
 - 📫 Contato: joaon.c.jv@gmail.com
-- 😄 Pronome: Ele/ dele
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&theme=highcontrast)
