@@ -4,8 +4,8 @@
   <img align="right" alt="Pixel Art" height="150" width="150" style="border-radius:50px;"  src="https://github.com/joaonevescampos/joaonevescampos/assets/126534395/9521918b-aac8-446a-842c-734bcfa2fd14">
  </div>
  
-Seja Bem-vindo(a) ao meu perfil do GitHub! 😄
-- 🔭 Focado em me tornar dev Front-End. 
+Seja Bem-vindo(a) ao meu perfil! 😄
+- 🔭 desenvolvedor Front-End. 
 - 💻 Aprendendo as linguagens HTML, CSS e JavaScript.
 - 👯 Buscando novas oportunidades...
 - ✨ Meu portfólio: https://joaonevescampos.github.io/meu-portifolio/
