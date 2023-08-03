@@ -9,7 +9,8 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 - 👯 Buscando novas oportunidades...
 - ✨ Meu portfólio: https://joaonevescampos.github.io/meu-portifolio/
 - LinkedIn: 
-https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180- 📫 Contato: joaon.c.jv@gmail.com
+https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180
+- 📫 Contato: joaon.c.jv@gmail.com
 
 
 
