@@ -5,9 +5,11 @@
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 🔭 desenvolvedor Front-End. 
 - 💻 Aprendendo as linguagens HTML, CSS e JavaScript.
+- Aluno da Cubos Academy.
 - 👯 Buscando novas oportunidades...
 - ✨ Meu portfólio: https://joaonevescampos.github.io/meu-portifolio/
-- 📫 Contato: joaon.c.jv@gmail.com
+- LinkedIn: 
+https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180- 📫 Contato: joaon.c.jv@gmail.com
 
 
 
