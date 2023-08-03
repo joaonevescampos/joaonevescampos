@@ -1,7 +1,5 @@
 ### Olá! Prazer, João Campos! 👋
 
-
- 
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 🔭 desenvolvedor Front-End. 
 - 💻 Aprendendo as linguagens HTML, CSS e JavaScript.
@@ -28,4 +26,4 @@ https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![snake gif](https://github.com/joaonevescampos/joaonevescampos/blob/output/github-contribution-grid-snake.svg)
+
