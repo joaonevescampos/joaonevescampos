@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0E384&size=30&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+João+Campos!;Tenho+26+anos;Sou+desenvolvedor+FULLSTACK;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0E384&size=38&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Campos!;Tenho+26+anos;Sou+desenvolvedor+FULLSTACK;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## Olá! Prazer, João aqui! 👋
 
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 💻 Desenvolvedor Full Stack.
-- 💻 Freelancer - Desenvolvimento de sites e aplicações web. 
+- 👨🏽‍💻 Freelancer - Desenvolvimento de sites e aplicações web. 
 - 🔭 Aprendendo as tecnologias Node JS, API REST e SQL.
 - 🎓 Aluno na Cubos Academy.
 - [Meu portfólio](https://joaonevescampos.github.io/meu-portifolio/)
@@ -37,10 +37,12 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 
 ## Contato
 <div>
-  <a href="https://instagram.com/joaon.campos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5561982481039&text=Ol%C3%A1,%20Jo%C3%A3o!%20Vi%20o%20seu%20Github%20e%20me%20interessei%20pelo%20seu%20trabalho!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaon.c.jv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
+
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats" /> 
@@ -54,7 +56,7 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaonevescampos&bg_color=0d1117&color=A0E384&line=ff9494&point=A0E384&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaonevescampos}/count.svg" /></p> 
 <br>
 </div>
