@@ -42,11 +42,9 @@ Seja Bem-vindo(a) ao meu perfil! 😄
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
 
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=A0E384&text_color=ff91a4&bg_color=0d1117" />
+<div display=flex align=center>  
+  <img width="500px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
+  <img width="400px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=A0E384&text_color=ff91a4&bg_color=0d1117"/>              
 </div></br>
 
 <p align="center">
