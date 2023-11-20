@@ -43,8 +43,8 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 </div></br>
 
 <div display=flex align=center>  
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=7731E8&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
-  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=7731E8&text_color=ff91a4&bg_color=0d1117"/>              
+  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
+  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117"/>              
 </div></br>
 
 <p align="center">
