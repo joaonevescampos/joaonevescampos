@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7731E8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0E384&size=38&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Campos!;Tenho+26+anos;Sou+desenvolvedor+FULLSTACK;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7731E8&size=38&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Campos!;Sou+desenvolvedor+FULLSTACK;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## Olá! Prazer, João aqui! 👋
 
@@ -43,15 +43,15 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 </div></br>
 
 <div display=flex align=center>  
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=A0E384&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
-  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=A0E384&text_color=ff91a4&bg_color=0d1117"/>              
+  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=7731E8&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
+  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=7731E8&text_color=ff91a4&bg_color=0d1117"/>              
 </div></br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaonevescampos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaonevescampos&bg_color=0d1117&color=A0E384&line=ff9494&point=A0E384&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaonevescampos&bg_color=0d1117&color=FFFFFF&line=7731E8&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
@@ -59,4 +59,4 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A0E384&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7731E8&height=120&section=footer"/>
