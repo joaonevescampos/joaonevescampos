@@ -7,8 +7,8 @@
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 💻 Desenvolvedor Full Stack.
 - 👨🏽‍💻 Freelancer - Desenvolvimento de sites e aplicações web. 
-- 🔭 Aprendendo as tecnologias Node JS, API REST e SQL.
-- 🎓 Aluno na Cubos Academy.
+- 🔭 Aprendendo as tecnologias React e TypeScript.
+- 🎓 Formado na Cubos Academy.
 - [Meu portfólio](https://joaonevescampos.github.io/meu-portifolio/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
