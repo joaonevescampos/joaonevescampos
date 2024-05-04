@@ -9,7 +9,7 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 - 👨🏽‍💻 Freelancer - Desenvolvimento de sites e aplicações web. 
 - 🔭 Aprendendo as tecnologias React e TypeScript.
 - 🎓 Formado na Cubos Academy.
-- [Meu portfólio](https://joaonevescampos.github.io/meu-portifolio/)
+- [Meu portfólio](https://joao-portfolio-iota.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
 - WhatsApp: (61) 98248-1039
