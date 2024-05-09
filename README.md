@@ -22,6 +22,7 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 <img src="https://img.shields.io/badge/REACT-1572B6?style=for-the-badge&logo=react&logoColor=white" alt="react">
+<img src="https://img.shields.io/badge/NEXT-000?style=for-the-badge&logo=next.js&logoColor=white" alt="next">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node js">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql">
@@ -35,6 +36,22 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop">
 <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="gimp">
 </div></br>
+
+## Projeto destaque 👑
+
+<details>
+  <summary><strong>New Board</strong></summary><br>
+  <div style="margin:auto;">
+     <img src="https://github.com/joaonevescampos/new-portfolio/assets/126534395/6658d6e5-119e-4404-8b54-444434247be7" alt="new board imagem" style="width:60%;" >
+  </div><br>
+ 
+  <p>New Board é um software que gerencia tarefas, similar ao Trello. Desenvolvido por uma equipe de cinco desenvolvedores liderados por mim, este projeto utiliza as tecnologias: React, CSS, Node e PostgreSQL. Atuei como desenvolvedor frontend e designer, fazendo todo o design do projeto no Figma e criando as telas de Home, Boards, Account entre outras.</p>
+  <br>
+   <a href="https://new-board-project.vercel.app/"><strong>Veja o projeto</strong></a><br>
+   <a href="https://github.com/joaonevescampos/new-board-front"><strong>Ver código frontend</strong></a><br>
+  <a href="https://github.com/My-Tech-Mind/new-board"><strong>Ver código frontend</strong></a><br>
+  
+</details>
 
 ## Contato
 <div>
