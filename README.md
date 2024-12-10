@@ -12,7 +12,7 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 - [Meu portfólio](https://joao-portfolio-iota.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
-- WhatsApp: (61) 98248-1039
+- WhatsApp: (83) 99696-6821
 
 <div style="display: inline_block">
 
@@ -55,7 +55,7 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 
 ## Contato
 <div>
-  <a href = "https://api.whatsapp.com/send?phone=5561982481039&text=Ol%C3%A1,%20Jo%C3%A3o!%20Vi%20o%20seu%20Github%20e%20me%20interessei%20pelo%20seu%20trabalho!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5583996966821&text=Ol%C3%A1,%20Jo%C3%A3o!%20Vi%20o%20seu%20Github%20e%20me%20interessei%20pelo%20seu%20trabalho!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaon.c.jv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div></br>
