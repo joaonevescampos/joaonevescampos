@@ -7,8 +7,9 @@
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 💻 Desenvolvedor Full Stack.
 - 👨🏽‍💻 Freelancer - Desenvolvimento de sites e aplicações web. 
-- 🔭 Aprendendo as tecnologias React e TypeScript.
+- 🔭 Aprendendo Java.
 - 🎓 Formado na Cubos Academy.
+- 🎓 Fazendo ADS na Uniesp
 - [Meu portfólio](https://joao-portfolio-iota.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
