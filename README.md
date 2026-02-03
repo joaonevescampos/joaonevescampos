@@ -2,12 +2,16 @@
 
 ## Olá! Prazer, João aqui! 👋
 
-Seja Bem-vindo(a) ao meu perfil! 😄
+### Seja Bem-vindo(a) ao meu perfil! 😄
+
 - 💻 Desenvolvedor Full Stack.
-- 🔭 Aprendendo Java.
 - 🎓 Formado em desenvolvimento Backend na Cubos Academy.
-- 🎓 Formado em desenvolvimento Full Stack na Mais Pra TI
-- 🎓 Fazendo ADS na Uniesp - Termino (06/2026)
+- 🎓 Formado em desenvolvimento Full Stack na Mais Pra Ti
+- 🎓 Fazendo ADS na Uniesp - Término (06/2026)
+- 🏅 1x AWS Certificado
+- 🏅 +20 certificados Udemy + Alura + PUCRS
+- 🏅 20 colocado na formação mais Pra Ti
+- 🔭 Aprendendo Java.
 - [Meu portfólio](https://portfolio-joao-campos.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
