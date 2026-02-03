@@ -1,17 +1,14 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c09bfc&height=120&section=header"/>|!-->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=38&center=true&vCenter=true&width=1000&lines=OLÁ,+meu+nome+é+João+Campos!;Sou+desenvolvedor+FULLSTACK;Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 ## Olá! Prazer, João aqui! 👋
 
 Seja Bem-vindo(a) ao meu perfil! 😄
 - 💻 Desenvolvedor Full Stack.
-- 👨🏽‍💻 Estagiário na Uol Compass 
 - 🔭 Aprendendo Java.
-- 🎓 Formado na Cubos Academy.
-- 🎓 Fazendo ADS na Uniesp
-- 🎓 Cursando Bootcamp da Mais Pra TI
-- [Meu portfólio](https://joao-portfolio-iota.vercel.app/)
+- 🎓 Formado em desenvolvimento Backend na Cubos Academy.
+- 🎓 Formado em desenvolvimento Full Stack na Mais Pra TI
+- 🎓 Fazendo ADS na Uniesp - Termino (06/2026)
+- [Meu portfólio](https://portfolio-joao-campos.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
 - WhatsApp: (83) 99696-6821
@@ -42,16 +39,25 @@ Seja Bem-vindo(a) ao meu perfil! 😄
 ## Projeto destaque 👑
 
 <details>
-  <summary><strong>New Board</strong></summary><br>
+  <summary><strong>Pokegym</strong></summary><br>
   <div style="margin:auto;">
-     <img src="https://github.com/joaonevescampos/new-portfolio/assets/126534395/6658d6e5-119e-4404-8b54-444434247be7" alt="new board imagem" style="width:60%;" >
-  </div><br>
- 
-  <p>New Board é um software que gerencia tarefas, similar ao Trello. Desenvolvido por uma equipe de cinco desenvolvedores liderados por mim, este projeto utiliza as tecnologias: React, CSS, Node e PostgreSQL. Atuei como desenvolvedor frontend e designer, fazendo todo o design do projeto no Figma e criando as telas de Home, Boards, Account entre outras.</p>
+     <img style="width:60%;" alt="pokegym" src="https://github.com/user-attachments/assets/1c804028-41ff-4d44-817c-e7ce78c793eb" />
+  <p>
+                      Projeto voltado principalmente para o público jovem, que
+                      ajuda a ser produtivo criando checklists, bloco de notas,
+                      técnica pomodoro, visualização de progresso mensal e
+                      anual... ao mesmo tempo que você se diverte capturando
+                      pokémons, batalhando, evoluindo pokémons, comprando itens
+                      na loja, liberando habilidades e gerações... tudo isso sem
+                      precisar fazer login e os dados são persistidos no
+                      navegador. Foi desenvolvido com
+                      <strong>React Vite, Typescript, Tailwind e Shadcn</strong
+                      >, utilizando técnicas de clean code e uso de keyframes
+                      para animar as batalhas.
+                    </p>
   <br>
-   <a href="https://new-board-project.vercel.app/"><strong>Veja o projeto</strong></a><br>
-   <a href="https://github.com/joaonevescampos/new-board-front"><strong>Ver código frontend</strong></a><br>
-  <a href="https://github.com/My-Tech-Mind/new-board"><strong>Ver código frontend</strong></a><br>
+   <a href="https://pokegym.vercel.app/"><strong>Veja o projeto</strong></a><br>
+   <a href="https://github.com/joaonevescampos/pokegym"><strong>Ver código</strong></a>
   
 </details>
 
