@@ -59,8 +59,9 @@
                       >, utilizando técnicas de clean code e uso de keyframes
                       para animar as batalhas.
                     </p>
-  <br>
-   <a href="https://pokegym.vercel.app/"><strong>Veja o projeto</strong></a><br>
+  </br>
+   <a href="https://pokegym.vercel.app/"><strong>Veja o projeto</strong></a>
+    </br>
    <a href="https://github.com/joaonevescampos/pokegym"><strong>Ver código</strong></a>
   
 </details>
@@ -70,23 +71,6 @@
   <a href = "https://api.whatsapp.com/send?phone=5583996966821&text=Ol%C3%A1,%20Jo%C3%A3o!%20Vi%20o%20seu%20Github%20e%20me%20interessei%20pelo%20seu%20trabalho!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaon.c.jv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div></br>
-
-<div display=flex align=center>  
-  <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaonevescampos&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="João Victor github stats"/>
-  <img width="300px" height="195px" padding="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonevescampos&layout=compact&hide_border=true&title_color=ffffff&text_color=ff91a4&bg_color=0d1117"/>              
-</div></br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaonevescampos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p></br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joaonevescampos&bg_color=0d1117&color=FFFFFF&line=7731E8&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center">
-<br><p align="centre"><b>Contador de visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaonevescampos}/count.svg" /></p> 
-<br>
 </div>
 
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c09bfc&height=120&section=footer"/>--!>
