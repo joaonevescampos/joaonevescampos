@@ -12,7 +12,7 @@
 - 🏅 +20 certificados Udemy + Alura + PUCRS
 - 🏅 20 colocado na formação mais Pra Ti
 - 🔭 Aprendendo Java.
-- [Meu portfólio](https://portfolio-joao-campos.vercel.app/)
+- [Meu portfólio](https://www.joaocamposdigital.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-neves-campos-de-jesus-415946180)
 - 📫 e-mail: joaon.c.jv@gmail.com
 - WhatsApp: (83) 99696-6821
